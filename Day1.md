@@ -31,4 +31,8 @@
         - 주석 : >
         - 구분선 : ---
 ## Git
-    
+    - init : 현재 디렉토리를 git으로 관리
+    - status : 디렉토리 내의 파일의 상태를 표시
+    - add : working directory의 파일을 staging area로 이동
+    - commit : staging area의 파일의 변경 사항을 하나의 버전으로 저장
+    - log : commit 내역 조회
