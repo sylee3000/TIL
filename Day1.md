@@ -31,6 +31,7 @@
         - 주석 : >
         - 구분선 : ---
 ## Git
+    - 백업, 복구, 협업을 위한 분산 버전 관리 시스템
     - init : 현재 디렉토리를 git으로 관리
     - status : 디렉토리 내의 파일의 상태를 표시
     - add : working directory의 파일을 staging area로 이동
