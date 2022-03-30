@@ -23,5 +23,5 @@
 ## Branch Merge
 - merge 종류
     1. Fast-Forward : merge 과정은 없고 브랜치의 포인터만 이동
-    2. merge : 서로 다른 두 브랜치를 병합
-    3. merge conflict : 서로 다른 두 브랜치가 같은 곳을 수정 시 충돌
+    2. Auto-merging : 서로 다른 두 브랜치를 병합
+    3. Conflict : 서로 다른 두 브랜치가 같은 곳을 수정 시 충돌
