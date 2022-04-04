@@ -17,3 +17,4 @@ soup = BeautifulSoup(r.text, "html.parser")
 #data = soup.select("") 
 #data = soup.find_all("", attrs={"":""})
 ```
+> 데이터의 다음위치를 나타내려면 ".next_sibling.next_sibling"을 사용
