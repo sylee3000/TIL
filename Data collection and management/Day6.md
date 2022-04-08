@@ -1,4 +1,4 @@
-# Data collection and management Day 3
+# Data collection and management Day 6
 
 # 데이터
 - 분류
